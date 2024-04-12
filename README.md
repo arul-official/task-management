@@ -23,7 +23,7 @@ Its a simple web api project to provide a understanding of the clean architechtu
   *  LastUpdatedBy - guid
   * LastUpdatedDate - datetime
   * IsActive - bool
-##### TaskAssigned
+###### TaskAssigned
   * Id - Guid
   * TaskId - guid
   * UserId - guid
